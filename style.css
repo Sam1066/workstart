@@ -2,6 +2,8 @@
 {
     	font-family:'haxrcorp';
     	src: url('haxrcorpttf.ttf');
+	font-family:'VCR';
+	src: url('VCR.ttf');
 }
 
 input {

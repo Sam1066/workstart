@@ -4,6 +4,12 @@
     	src: url('haxrcorpttf.ttf');
 }
 
+@font-face
+{
+    	font-family:'VHS';
+    	src: url('VHS.ttf');
+}
+
 input {
 	font-family: haxrcorp, monospace;
 	font-size:30px;
@@ -105,8 +111,8 @@ body{
 .time {
 	color:#000000;
 	line-height:25px;
-	font-family: haxrcorp, monospace;
-	font-size:30px;
+	font-family: VHS, monospace;
+	font-size:20px;
 	position:absolute;
 	top:60px;
 	width:400px;

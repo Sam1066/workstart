@@ -2,8 +2,6 @@
 {
     	font-family:'haxrcorp';
     	src: url('haxrcorpttf.ttf');
-	font-family:'VCR';
-	src: url('VCR.ttf');
 }
 
 input {
@@ -105,10 +103,12 @@ body{
 }
 
 .time {
+	font-family:'VCR';
+	src: url('VCR.ttf');
 	color:#000000;
 	line-height:25px;
 	font-family: VCR, monospace;
-	font-size:30px;
+	font-size:20px;
 	position:absolute;
 	top:60px;
 	width:400px;

@@ -18,8 +18,9 @@ input {
 body{
 	font-family: haxrcorp, monospace;
 	font-size:20px;
-	background-image url(seascape.jpg);
+	background-image url(site.samhastings.co.uk/workstart/seascape.jpg);
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .maincontainer {

@@ -18,8 +18,8 @@ input {
 body{
 	font-family: haxrcorp, monospace;
 	font-size:20px;
-	background-color:#70A3A3;
-	background-repeat: repeat;
+	background-image url(seascape.jpg);
+	background-repeat: no-repeat;
 }
 
 .maincontainer {
